@@ -1,2 +1,0 @@
-Writing RMSD values...echo RMSD: 3.522045135498047 > /data/karagozm2/auxt/output/rmsd_values_Glycine_max_auxt_rotated.txt
-echo Number of aligned atoms: 1416 >> /data/karagozm2/auxt/output/rmsd_values_Glycine_max_auxt_rotated.txt
