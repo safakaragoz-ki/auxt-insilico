@@ -1,0 +1,2 @@
+Writing RMSD values...echo RMSD: 1.7455883026123047 > /data/karagozm2/auxt/output/rmsd_values_PA_auxt_rotated.txt
+echo Number of aligned atoms: 1359 >> /data/karagozm2/auxt/output/rmsd_values_PA_auxt_rotated.txt

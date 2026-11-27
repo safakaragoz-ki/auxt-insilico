@@ -1,0 +1,15 @@
+defaults:
+  - base
+
+job_name: "HH103_dimer_4-Cl-IAA"
+
+protein_inputs:
+  A:
+    fasta_file: sequences/AuxT_HH103_401aa.fasta
+  B:
+    fasta_file: sequences/AuxT_HH103_401aa.fasta
+
+sm_inputs:
+  C:
+    input: ligands/4-Cl-IAA.sdf
+    input_type: "sdf"

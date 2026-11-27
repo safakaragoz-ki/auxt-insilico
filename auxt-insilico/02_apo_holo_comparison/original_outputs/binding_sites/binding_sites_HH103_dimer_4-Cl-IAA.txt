@@ -1,0 +1,7 @@
+Chain A, Residue 196
+Chain A, Residue 197
+Chain C, Residue 826
+Chain A, Residue 304
+Chain B, Residue 712
+Chain A, Residue 358
+Chain A, Residue 193

@@ -1,0 +1,4 @@
+uniprot,description,homolog_residues,auxt_residues,rmsd_all_atom_A,aligned_atoms,rmsd_before_refinement_A,atoms_before_refinement,rmsd_calpha_A,aligned_calpha
+A0A0H3GMW9,"Klebsiella pneumoniae HS11286, auxin efflux carrier",319,314,2.76,1372,4.85,1660,2.75,239
+Q9HTA4,"Pseudomonas aeruginosa PAO1, AEC family transporter",314,314,1.77,1357,4.0,1710,1.65,233
+A0A0R0ILJ6,"Glycine max, auxin efflux carrier component",358,314,3.83,1463,9.39,1814,3.77,255

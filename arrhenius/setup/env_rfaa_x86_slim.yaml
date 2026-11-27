@@ -1,0 +1,37 @@
+# Fallback environment for RFAA on x86-64 (cpu partition): MSA tools + CPU/GPU-agnostic inference.
+# Used only if the pinned environment.yaml shipped with RFAA no longer solves.
+# Versions follow that file.
+channels:
+  - pytorch
+  - dglteam
+  - biocore
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch=2.0.1
+  - cpuonly
+  - dgl=1.1.2
+  - numpy=1.26
+  - scipy=1.12
+  - pandas
+  - networkx=3.2
+  - openbabel=3.1.1
+  - opt_einsum
+  - icecream
+  - deepdiff
+  - tqdm
+  - pyyaml
+  - hhsuite=3.3.0
+  - psipred=4.01
+  - blast-legacy=2.2.26
+  - pip:
+      - hydra-core==1.3.2
+      - omegaconf==2.3.0
+      - assertpy==1.1
+      - e3nn==0.3.3
+      - opt-einsum-fx==0.1.4
+      - pynvml==11.0.0
+      - wandb==0.12.0
+      - git+https://github.com/NVIDIA/dllogger.git@0540a43971f4a8a16693a9de9de73c1072020769
