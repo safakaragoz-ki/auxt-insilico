@@ -1,0 +1,1 @@
+RMSD: 1.2555540800094604Number of aligned atoms: 2233

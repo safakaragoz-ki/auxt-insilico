@@ -1,0 +1,64 @@
+340518174
+  -OEChem-11152413292D
+
+ 10 10  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+340518174
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+6
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+15699
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+MM0160.03
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+103-82-2
+Phenylacetic Acid
+Benzylpenicillin Benzathine Imp. B (EP); Benzylpenicillin Potassium Imp. B (EP); Benzylpenicillin Procaine Imp. E (EP); Cyclopentolate Hydrochloride Imp. B (EP); Cyclopentolate Imp. B (EP); Tropicamide Imp. D (EP); Tropicamide USP Related Compound D; Tropicamide USP RC D; Phenylacetic Acid; Benzeneacetic acid; Acetic acid, phenyl- (6CI,8CI); 2-Phenylacetic acid; NSC 125718; PAA; Phenylethanoic acid; alpha-Toluic acid; omega-Phenylacetic acid; BRL-2853, Benzylpenicillin Potassium Ph Eur Impurity B; BRL-955; USP Amoxicillin Related Compound A; Ph Eur Amoxicillin Impurity A; Penicinic acid (1); Penicinic acid (2); 8-Hydroxypenillic acid (8-HPA); Phenylacetic acid; Tropicamide Related Compound D; Benzylpenicillin Benzathine Impurity B; Benzylpenicillin Potassium Impurity B; Benzylpenicillin Procaine Impurity E; Carbenicillin Sodium Impurity B; Cyclopentolate Hydrochloride Impurity B; Tropicamide Impurity D; Carbenicillin Impurity B; Cyclopentolate Impurity B; Benzylpenicillin Impurity B
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+103-82-2
+
+> <PUBCHEM_XREF_EXT_ID>
+MM0160.03
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.lgcstandards.com/US/en/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.lgcstandards.com/GB/en/p/MM0160.03
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+999  1
+
+$$$$
