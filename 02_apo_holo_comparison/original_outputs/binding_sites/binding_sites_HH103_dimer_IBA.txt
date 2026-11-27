@@ -1,0 +1,4 @@
+Chain A, Residue 304
+Chain A, Residue 300
+Chain A, Residue 311
+Chain C, Residue 827

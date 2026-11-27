@@ -1,0 +1,2 @@
+uniprot,description,homolog_residues,auxt_residues,rmsd_all_atom_A,aligned_atoms,rmsd_before_refinement_A,atoms_before_refinement,rmsd_calpha_A,aligned_calpha
+Q9HTA4,"Pseudomonas aeruginosa PAO1, AEC family transporter",314,314,1.74,1352,4.01,1710,1.62,232

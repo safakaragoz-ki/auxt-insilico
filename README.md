@@ -22,7 +22,6 @@ auxin transporter AuxT of *Sinorhizobium fredii* HH103 in
 | `02_apo_holo_comparison/` | Apo vs holo superposition, RMSD, ligand contacts; original PyMOL scripts, logs and contact lists in `original_outputs/` |
 | `03_complex_figures/` | PyMOL rendering of the models |
 | `04_structural_homologs/` | Pairwise alignment of AuxT with Foldseek hits from the AlphaFold DB; first-round scripts and logs in `original_2024/` |
-| `arrhenius/` | Installation, config generation and Slurm scripts to rerun the RFAA modelling with the 314-aa sequence on the NAISS Arrhenius cluster (see `arrhenius/README.md`) |
 | `results/` | Tables written by the scripts above |
 | `as_run_on_cluster/` | The scripts exactly as they were run (hard-coded cluster paths), kept for provenance |
 
@@ -64,7 +63,7 @@ python 04_structural_homologs/align_homologs.py --ids P12345 Q67890  # any other
   with it. `apo_holo_analysis.py` and `align_homologs.py` also report C-alpha
   RMSDs.
 - **Ligand contacts.** `results/ligand_contacts_4A.csv` lists residues with any
-  atom within 4 Å of the ligand, with their numbers in the model, in the 314-aa sequence and in the 401-aa sequence. The lists in
+  atom within 4 Å of the ligand. The lists in
   `02_apo_holo_comparison/original_outputs/binding_sites/` come from the first
   analysis, which used a 2 Å cutoff; in those files the last entry of each list
   (residue number > 401 in the monomer, > 802 in the dimer) is the ligand itself.
