@@ -1,4 +1,0 @@
-Chain A, Residue 194
-Chain B, Residue 426
-Chain A, Residue 193
-Chain A, Residue 192
